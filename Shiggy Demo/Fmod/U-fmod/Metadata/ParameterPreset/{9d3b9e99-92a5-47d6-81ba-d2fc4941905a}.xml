@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{9d3b9e99-92a5-47d6-81ba-d2fc4941905a}">
+		<property name="name">
+			<value>Door Broken</value>
+		</property>
+		<relationship name="folder">
+			<destination>{fe4fe8be-35eb-4076-baa9-4544d55ff657}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{54cc6b1b-e24f-4bed-9f3c-8ac4d3619338}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{54cc6b1b-e24f-4bed-9f3c-8ac4d3619338}">
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

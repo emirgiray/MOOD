@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c57e7c7e-028a-43bc-9542-890628d6db19}">
+		<property name="assetPath">
+			<value>Hurt - Copy.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{32b451d5-bfe9-432d-a256-af4dc6b4357d}</destination>
+		</relationship>
+	</object>
+</objects>

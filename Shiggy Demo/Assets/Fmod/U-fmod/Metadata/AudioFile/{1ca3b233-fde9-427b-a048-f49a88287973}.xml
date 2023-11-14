@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{1ca3b233-fde9-427b-a048-f49a88287973}">
+		<property name="assetPath">
+			<value>Menu Exit.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.18265625</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{32b451d5-bfe9-432d-a256-af4dc6b4357d}</destination>
+		</relationship>
+	</object>
+</objects>

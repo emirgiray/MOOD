@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{5126dc47-8d26-49c2-b60f-c974ae3b60c3}">
+		<property name="assetPath">
+			<value>Patrol Footsteps - Copy (2).wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>19.208333333333332</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{32b451d5-bfe9-432d-a256-af4dc6b4357d}</destination>
+		</relationship>
+	</object>
+</objects>

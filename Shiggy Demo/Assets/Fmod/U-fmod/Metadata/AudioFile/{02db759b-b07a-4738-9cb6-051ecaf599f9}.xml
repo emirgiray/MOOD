@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{02db759b-b07a-4738-9cb6-051ecaf599f9}">
+		<property name="assetPath">
+			<value>Walking_On_Metal.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>11.620854166666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{32b451d5-bfe9-432d-a256-af4dc6b4357d}</destination>
+		</relationship>
+	</object>
+</objects>

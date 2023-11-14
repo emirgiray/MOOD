@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Stun
+  - Heavy Object
+  - Light Object
+  - Waypoints
+  - Wall
+  - ProjectilePoint
+  - Enemy
+  - Door Collider
+  - Trigger
+  - PianoKeys
+  - Liquid
+  - Waypoints1
+  - Waypoints2
+  - Waypoints3
+  - Waypoints4
+  - Waypoints5
+  - Waypoints6
+  - Waypoints7
+  - Waypoints8
+  - Waypoints9
+  - Waypoints10
+  - Waypoints11
+  - Waypoints12
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - WhatISGround
+  - WhatIsPlayer
+  - Ticket
+  - Don't Render
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
